@@ -1,4 +1,7 @@
-﻿namespace AirQualityApi.Models
+﻿using System.Text.Json.Serialization;
+
+namespace AirQualityApi.Db.Models
+
 {
     public class Station
     {
@@ -8,5 +11,8 @@
         public string? GegrLon { get; set; }
         public City City { get; set; }
         public string? AddressStreet { get; set; }
+
+        [JsonIgnore]
+        public int CityId { get; set; }
     }
 }

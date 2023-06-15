@@ -7,9 +7,9 @@ namespace AirQualityApi.Controllers
     [Route("api/[controller]")]
     public class StationsController : ControllerBase
     {
-        private readonly IStationsService _stationsService;
+        private readonly IStationsDbService _stationsService;
 
-        public StationsController(IStationsService stationsService)
+        public StationsController(IStationsDbService stationsService)
         {
             _stationsService = stationsService;
         }
@@ -40,17 +40,17 @@ namespace AirQualityApi.Controllers
             return Ok(apiResponse);
         }
 
-        [HttpGet("city/{stationName}")]
-        public async Task<IActionResult> GetStationAndSensorDataByStationName(string stationName)
-        {
-            var stationResponse = await _stationsService.GetStationAndSensorDataByStationName(stationName);
+        //[HttpGet("city/{stationName}")]
+        //public async Task<IActionResult> GetStationAndSensorDataByStationName(string stationName)
+        //{
+        //    var stationResponse = await _stationsService.GetStationAndSensorDataByStationName(stationName);
 
-            if (stationResponse == null)
-            {
-                return NotFound();
-            }
+        //    if (stationResponse == null)
+        //    {
+        //        return NotFound();
+        //    }
 
-            return Ok(stationResponse);
-        }
+        //    return Ok(stationResponse);
+        //}
     }
 }

@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc.TagHelpers;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace AirQualityApi.Models
 {
