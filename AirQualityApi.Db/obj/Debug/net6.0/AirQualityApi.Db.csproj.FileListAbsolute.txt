@@ -1,0 +1,17 @@
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\AirQualityApi.Db.csproj.AssemblyReference.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\AirQualityApi.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\AirQualityApi.Db.AssemblyInfoInputs.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\AirQualityApi.Db.AssemblyInfo.cs
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\AirQualityApi.Db.csproj.CoreCompileInputs.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\bin\Debug\net6.0\AirQualityApi.Db.deps.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\bin\Debug\net6.0\AirQualityApi.Db.runtimeconfig.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\bin\Debug\net6.0\AirQualityApi.Db.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\bin\Debug\net6.0\AirQualityApi.Db.pdb
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\bin\Debug\net6.0\AirQualityApi.Db.Models.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\bin\Debug\net6.0\AirQualityApi.Db.Models.pdb
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\AirQualityApi.Db.csproj.CopyComplete
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\AirQualityApi.Db.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\refint\AirQualityApi.Db.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\AirQualityApi.Db.pdb
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\AirQualityApi.Db.genruntimeconfig.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Db\obj\Debug\net6.0\ref\AirQualityApi.Db.dll

@@ -1,0 +1,26 @@
+2023-03-30 12:11:33  INF  Now listening on: https://localhost:7285
+2023-03-30 12:11:33  INF  Now listening on: http://localhost:5285
+2023-03-30 12:11:33  INF  Application started. Press Ctrl+C to shut down.
+2023-03-30 12:11:33  INF  Hosting environment: Development
+2023-03-30 12:11:33  INF  Content root path: C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\
+2023-03-30 12:11:35  INF  Request starting HTTP/2 GET https://localhost:7285/swagger/index.html - -
+2023-03-30 12:11:37  INF  Request finished HTTP/2 GET https://localhost:7285/swagger/index.html - - - 200 - text/html;charset=utf-8 1571.2275ms
+2023-03-30 12:11:37  INF  Request starting HTTP/2 GET https://localhost:7285/_framework/aspnetcore-browser-refresh.js - -
+2023-03-30 12:11:37  INF  Request finished HTTP/2 GET https://localhost:7285/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 42.5928ms
+2023-03-30 12:11:37  INF  Request starting HTTP/2 GET https://localhost:7285/_vs/browserLink - -
+2023-03-30 12:11:38  INF  Request finished HTTP/2 GET https://localhost:7285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 353.9242ms
+2023-03-30 12:11:38  INF  Request starting HTTP/2 GET https://localhost:7285/swagger/v1/swagger.json - -
+2023-03-30 12:11:38  INF  Request finished HTTP/2 GET https://localhost:7285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 276.0267ms
+2023-03-30 12:11:42  INF  Request starting HTTP/2 GET https://localhost:7285/api/Stations/id/114 - -
+2023-03-30 12:11:42  INF  Executing endpoint 'AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi)'
+2023-03-30 12:11:42  INF  Route matched with {action = "GetSensorDataById", controller = "Stations"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetSensorDataById(Int32) on controller AirQualityApi.Controllers.StationsController (AirQualityApi).
+2023-03-30 12:11:43  INF  Retrieving the data...
+2023-03-30 12:11:43  INF  Start processing HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/sensors/114"
+2023-03-30 12:11:43  INF  Sending HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/sensors/114"
+2023-03-30 12:11:44  INF  Received HTTP response headers after 1541.4603ms - 200
+2023-03-30 12:11:44  INF  End processing HTTP request after 1612.4775ms - 200
+2023-03-30 12:11:44  INF  Successfully retrieved the station with given ID: 114
+2023-03-30 12:11:44  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AirQualityApi.Models.Sensor, AirQualityApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-03-30 12:11:45  INF  Executed action AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi) in 2018.9402ms
+2023-03-30 12:11:45  INF  Executed endpoint 'AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi)'
+2023-03-30 12:11:45  INF  Request finished HTTP/2 GET https://localhost:7285/api/Stations/id/114 - - - 200 - application/json;+charset=utf-8 2235.4773ms

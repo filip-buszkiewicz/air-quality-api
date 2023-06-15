@@ -1,0 +1,100 @@
+2023-03-17 09:30:50.940 +00:00  INF  Now listening on: https://localhost:7285
+2023-03-17 09:30:51.208 +00:00  INF  Now listening on: http://localhost:5285
+2023-03-17 09:30:51.350 +00:00  INF  Application started. Press Ctrl+C to shut down.
+2023-03-17 09:30:51.374 +00:00  INF  Hosting environment: Development
+2023-03-17 09:30:51.392 +00:00  INF  Content root path: C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\
+2023-03-17 09:30:54.290 +00:00  INF  Request starting HTTP/2 GET https://localhost:7285/swagger/index.html - -
+2023-03-17 09:30:55.588 +00:00  INF  Request finished HTTP/2 GET https://localhost:7285/swagger/index.html - - - 200 - text/html;charset=utf-8 1315.3667ms
+2023-03-17 09:30:55.707 +00:00  INF  Request starting HTTP/2 GET https://localhost:7285/_framework/aspnetcore-browser-refresh.js - -
+2023-03-17 09:30:55.707 +00:00  INF  Request starting HTTP/2 GET https://localhost:7285/_vs/browserLink - -
+2023-03-17 09:30:55.721 +00:00  INF  Request finished HTTP/2 GET https://localhost:7285/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 13.5257ms
+2023-03-17 09:30:55.987 +00:00  INF  Request finished HTTP/2 GET https://localhost:7285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 280.1010ms
+2023-03-17 09:30:56.198 +00:00  INF  Request starting HTTP/2 GET https://localhost:7285/swagger/v1/swagger.json - -
+2023-03-17 09:30:56.524 +00:00  INF  Request finished HTTP/2 GET https://localhost:7285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 325.9955ms
+2023-03-17 09:31:01.507 +00:00  INF  Request starting HTTP/2 GET https://localhost:7285/api/Stations/id/144 - -
+2023-03-17 09:31:01.727 +00:00  INF  Executing endpoint 'AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi)'
+2023-03-17 09:31:01.920 +00:00  INF  Route matched with {action = "GetSensorDataById", controller = "Stations"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetSensorDataById(Int32) on controller AirQualityApi.Controllers.StationsController (AirQualityApi).
+2023-03-17 09:31:02.294 +00:00  INF  Start processing HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/sensors/144"
+2023-03-17 09:31:02.393 +00:00  INF  Sending HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/sensors/144"
+2023-03-17 09:31:04.572 +00:00  INF  Received HTTP response headers after 2157.2626ms - 200
+2023-03-17 09:31:04.580 +00:00  INF  End processing HTTP request after 2325.6705ms - 200
+2023-03-17 09:31:04.603 +00:00  ERR  An error occured while retrieving the data
+2023-03-17 09:31:05.005 +00:00  INF  Executed action AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi) in 3028.9628ms
+2023-03-17 09:31:05.015 +00:00  INF  Executed endpoint 'AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi)'
+2023-03-17 09:31:05.309 +00:00  INF  Request finished HTTP/2 GET https://localhost:7285/api/Stations/id/144 - - - 404 - application/json;+charset=utf-8 3802.1537ms
+2023-03-17 09:31:09.770 +00:00  INF  Request starting HTTP/2 GET https://localhost:7285/api/Stations/id/114 - -
+2023-03-17 09:31:09.781 +00:00  INF  Executing endpoint 'AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi)'
+2023-03-17 09:31:09.790 +00:00  INF  Route matched with {action = "GetSensorDataById", controller = "Stations"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetSensorDataById(Int32) on controller AirQualityApi.Controllers.StationsController (AirQualityApi).
+2023-03-17 09:31:09.799 +00:00  INF  Start processing HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/sensors/114"
+2023-03-17 09:31:09.801 +00:00  INF  Sending HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/sensors/114"
+2023-03-17 09:31:11.300 +00:00  INF  Received HTTP response headers after 1493.2013ms - 200
+2023-03-17 09:31:11.303 +00:00  INF  End processing HTTP request after 1504.2251ms - 200
+2023-03-17 09:31:11.314 +00:00  INF  Successfully retrieved the station with given ID: 114
+2023-03-17 09:31:11.325 +00:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AirQualityApi.Models.Sensor, AirQualityApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-03-17 09:31:11.348 +00:00  INF  Executed action AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi) in 1550.6023ms
+2023-03-17 09:31:11.353 +00:00  INF  Executed endpoint 'AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi)'
+2023-03-17 09:31:11.356 +00:00  INF  Request finished HTTP/2 GET https://localhost:7285/api/Stations/id/114 - - - 200 - application/json;+charset=utf-8 1585.4309ms
+2023-03-17 10:45:28  INF  Now listening on: https://localhost:7285
+2023-03-17 10:45:28  INF  Now listening on: http://localhost:5285
+2023-03-17 10:45:28  INF  Application started. Press Ctrl+C to shut down.
+2023-03-17 10:45:28  INF  Hosting environment: Development
+2023-03-17 10:45:28  INF  Content root path: C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\
+2023-03-17 10:45:30  INF  Request starting HTTP/2 GET https://localhost:7285/swagger/index.html - -
+2023-03-17 10:45:31  INF  Request finished HTTP/2 GET https://localhost:7285/swagger/index.html - - - 200 - text/html;charset=utf-8 1354.1707ms
+2023-03-17 10:45:31  INF  Request starting HTTP/2 GET https://localhost:7285/_framework/aspnetcore-browser-refresh.js - -
+2023-03-17 10:45:31  INF  Request starting HTTP/2 GET https://localhost:7285/_vs/browserLink - -
+2023-03-17 10:45:32  INF  Request finished HTTP/2 GET https://localhost:7285/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 240.2679ms
+2023-03-17 10:45:32  INF  Request finished HTTP/2 GET https://localhost:7285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 680.8664ms
+2023-03-17 10:45:32  INF  Request starting HTTP/2 GET https://localhost:7285/swagger/v1/swagger.json - -
+2023-03-17 10:45:33  INF  Request finished HTTP/2 GET https://localhost:7285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 378.1191ms
+2023-03-17 10:45:37  INF  Request starting HTTP/2 GET https://localhost:7285/api/Stations - -
+2023-03-17 10:45:37  INF  Executing endpoint 'AirQualityApi.Controllers.StationsController.GetAllStations (AirQualityApi)'
+2023-03-17 10:45:37  INF  Route matched with {action = "GetAllStations", controller = "Stations"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStations() on controller AirQualityApi.Controllers.StationsController (AirQualityApi).
+2023-03-17 10:45:37  INF  Retrieving the data...
+2023-03-17 10:45:37  INF  Start processing HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/findAll"
+2023-03-17 10:45:37  INF  Sending HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/findAll"
+2023-03-17 10:45:38  INF  Received HTTP response headers after 1545.7729ms - 200
+2023-03-17 10:45:38  INF  End processing HTTP request after 1602.6761ms - 200
+2023-03-17 10:45:38  INF  Successfully retrieved 205 stations
+2023-03-17 10:45:38  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AirQualityApi.Models.Station, AirQualityApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-03-17 10:45:38  INF  Executed action AirQualityApi.Controllers.StationsController.GetAllStations (AirQualityApi) in 1801.0907ms
+2023-03-17 10:45:38  INF  Executed endpoint 'AirQualityApi.Controllers.StationsController.GetAllStations (AirQualityApi)'
+2023-03-17 10:45:38  INF  Request finished HTTP/2 GET https://localhost:7285/api/Stations - - - 200 - application/json;+charset=utf-8 1875.6490ms
+2023-03-17 11:54:34  INF  Now listening on: https://localhost:7285
+2023-03-17 11:54:34  INF  Now listening on: http://localhost:5285
+2023-03-17 11:54:34  INF  Application started. Press Ctrl+C to shut down.
+2023-03-17 11:54:34  INF  Hosting environment: Development
+2023-03-17 11:54:34  INF  Content root path: C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\
+2023-03-17 11:54:36  INF  Request starting HTTP/2 GET https://localhost:7285/swagger/index.html - -
+2023-03-17 11:54:37  INF  Request finished HTTP/2 GET https://localhost:7285/swagger/index.html - - - 200 - text/html;charset=utf-8 1046.7651ms
+2023-03-17 11:54:37  INF  Request starting HTTP/2 GET https://localhost:7285/_vs/browserLink - -
+2023-03-17 11:54:37  INF  Request starting HTTP/2 GET https://localhost:7285/_framework/aspnetcore-browser-refresh.js - -
+2023-03-17 11:54:37  INF  Request finished HTTP/2 GET https://localhost:7285/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 51.6276ms
+2023-03-17 11:54:37  INF  Request finished HTTP/2 GET https://localhost:7285/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 167.1031ms
+2023-03-17 11:54:37  INF  Request starting HTTP/2 GET https://localhost:7285/swagger/v1/swagger.json - -
+2023-03-17 11:54:37  INF  Request finished HTTP/2 GET https://localhost:7285/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 236.5486ms
+2023-03-17 11:54:49  INF  Request starting HTTP/2 GET https://localhost:7285/api/Stations - -
+2023-03-17 11:54:49  INF  Executing endpoint 'AirQualityApi.Controllers.StationsController.GetAllStations (AirQualityApi)'
+2023-03-17 11:54:49  INF  Route matched with {action = "GetAllStations", controller = "Stations"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllStations() on controller AirQualityApi.Controllers.StationsController (AirQualityApi).
+2023-03-17 11:54:49  INF  Retrieving the data...
+2023-03-17 11:54:49  INF  Start processing HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/findAll"
+2023-03-17 11:54:49  INF  Sending HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/findAll"
+2023-03-17 11:54:50  INF  Received HTTP response headers after 1260.0762ms - 200
+2023-03-17 11:54:50  INF  End processing HTTP request after 1294.9014ms - 200
+2023-03-17 11:54:51  INF  Successfully retrieved 205 stations
+2023-03-17 11:54:51  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AirQualityApi.Models.Station, AirQualityApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-03-17 11:54:51  INF  Executed action AirQualityApi.Controllers.StationsController.GetAllStations (AirQualityApi) in 1889.5957ms
+2023-03-17 11:54:51  INF  Executed endpoint 'AirQualityApi.Controllers.StationsController.GetAllStations (AirQualityApi)'
+2023-03-17 11:54:51  INF  Request finished HTTP/2 GET https://localhost:7285/api/Stations - - - 200 - application/json;+charset=utf-8 1962.5155ms
+2023-03-17 11:56:16  INF  Request starting HTTP/2 GET https://localhost:7285/api/Stations/id/144 - -
+2023-03-17 11:56:33  INF  Executing endpoint 'AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi)'
+2023-03-17 11:56:33  INF  Route matched with {action = "GetSensorDataById", controller = "Stations"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetSensorDataById(Int32) on controller AirQualityApi.Controllers.StationsController (AirQualityApi).
+2023-03-17 11:56:33  INF  Retrieving the data...
+2023-03-17 11:56:33  INF  Start processing HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/sensors/144"
+2023-03-17 11:56:33  INF  Sending HTTP request GET "https://api.gios.gov.pl/pjp-api/rest/station/sensors/144"
+2023-03-17 11:56:37  INF  Received HTTP response headers after 4055.8381ms - 200
+2023-03-17 11:56:37  INF  End processing HTTP request after 4217.3187ms - 200
+2023-03-17 11:56:37  ERR  An error occured while retrieving the data
+2023-03-17 11:56:38  INF  Executed action AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi) in 4394.4159ms
+2023-03-17 11:56:38  INF  Executed endpoint 'AirQualityApi.Controllers.StationsController.GetSensorDataById (AirQualityApi)'
+2023-03-17 11:56:38  INF  Request finished HTTP/2 GET https://localhost:7285/api/Stations/id/144 - - - 404 - application/json;+charset=utf-8 21223.0053ms

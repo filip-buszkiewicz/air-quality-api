@@ -1,0 +1,161 @@
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\appsettings.json
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.exe
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.deps.json
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.runtimeconfig.json
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.dll
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.pdb
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.AssemblyInfo.cs
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\scopedcss\bundle\AirQualityApi.styles.css
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.csproj.CopyComplete
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.dll
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\refint\AirQualityApi.dll
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.pdb
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.genruntimeconfig.cache
+C:\Users\filip\Desktop\vstudio\AirQualityApi\AirQualityApi\obj\Debug\net6.0\ref\AirQualityApi.dll
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\appsettings.json
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.exe
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.deps.json
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.runtimeconfig.json
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.dll
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.pdb
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.csproj.AssemblyReference.cache
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.AssemblyInfoInputs.cache
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.AssemblyInfo.cs
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.csproj.CoreCompileInputs.cache
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets\msbuild.AirQualityApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AirQualityApi.props
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AirQualityApi.props
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AirQualityApi.props
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\scopedcss\bundle\AirQualityApi.styles.css
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.csproj.CopyComplete
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.dll
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\refint\AirQualityApi.dll
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.pdb
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.genruntimeconfig.cache
+C:\Users\FBUSZKIEWICZ\Desktop\AirQualityApi (1)\AirQualityApi\AirQualityApi\obj\Debug\net6.0\ref\AirQualityApi.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\appsettings.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.exe
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.deps.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.runtimeconfig.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.pdb
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.csproj.AssemblyReference.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.AssemblyInfoInputs.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.AssemblyInfo.cs
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.csproj.CoreCompileInputs.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets\msbuild.AirQualityApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AirQualityApi.props
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AirQualityApi.props
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AirQualityApi.props
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\scopedcss\bundle\AirQualityApi.styles.css
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.csproj.CopyComplete
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\refint\AirQualityApi.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.pdb
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\AirQualityApi.genruntimeconfig.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\obj\Debug\net6.0\ref\AirQualityApi.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.Db.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.Models.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.Db.pdb
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.Models.pdb
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.Db.Models.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi\bin\Debug\net6.0\AirQualityApi.Db.Models.pdb

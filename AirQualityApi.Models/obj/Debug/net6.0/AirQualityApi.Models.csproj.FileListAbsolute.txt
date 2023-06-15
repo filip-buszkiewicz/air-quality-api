@@ -1,0 +1,12 @@
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\bin\Debug\net6.0\AirQualityApi.Models.deps.json
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\bin\Debug\net6.0\AirQualityApi.Models.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\bin\Debug\net6.0\AirQualityApi.Models.pdb
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\obj\Debug\net6.0\AirQualityApi.Models.csproj.AssemblyReference.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\obj\Debug\net6.0\AirQualityApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\obj\Debug\net6.0\AirQualityApi.Models.AssemblyInfoInputs.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\obj\Debug\net6.0\AirQualityApi.Models.AssemblyInfo.cs
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\obj\Debug\net6.0\AirQualityApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\obj\Debug\net6.0\AirQualityApi.Models.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\obj\Debug\net6.0\refint\AirQualityApi.Models.dll
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\obj\Debug\net6.0\AirQualityApi.Models.pdb
+C:\Users\FBUSZKIEWICZ\Documents\GitHub\filip_b\AirQualityApi\AirQualityApi.Models\obj\Debug\net6.0\ref\AirQualityApi.Models.dll

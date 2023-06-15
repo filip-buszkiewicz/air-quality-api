@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Tests\\AirQualityApi.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db.Models\\AirQualityApi.Db.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db.Models\\AirQualityApi.Db.Models.csproj",
+        "projectName": "AirQualityApi.Db.Models",
+        "projectPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db.Models\\AirQualityApi.Db.Models.csproj",
+        "packagesPath": "C:\\Users\\FBUSZKIEWICZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FBUSZKIEWICZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db\\AirQualityApi.Db.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db\\AirQualityApi.Db.csproj",
+        "projectName": "AirQualityApi.Db",
+        "projectPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db\\AirQualityApi.Db.csproj",
+        "packagesPath": "C:\\Users\\FBUSZKIEWICZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FBUSZKIEWICZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db.Models\\AirQualityApi.Db.Models.csproj": {
+                "projectPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db.Models\\AirQualityApi.Db.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Models\\AirQualityApi.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Models\\AirQualityApi.Models.csproj",
+        "projectName": "AirQualityApi.Models",
+        "projectPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Models\\AirQualityApi.Models.csproj",
+        "packagesPath": "C:\\Users\\FBUSZKIEWICZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FBUSZKIEWICZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Tests\\AirQualityApi.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Tests\\AirQualityApi.Tests.csproj",
+        "projectName": "AirQualityApi.Tests",
+        "projectPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Tests\\AirQualityApi.Tests.csproj",
+        "packagesPath": "C:\\Users\\FBUSZKIEWICZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FBUSZKIEWICZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi\\AirQualityApi.csproj": {
+                "projectPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi\\AirQualityApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "RichardSzalay.MockHttp": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi\\AirQualityApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi\\AirQualityApi.csproj",
+        "projectName": "AirQualityApi",
+        "projectPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi\\AirQualityApi.csproj",
+        "packagesPath": "C:\\Users\\FBUSZKIEWICZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FBUSZKIEWICZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db\\AirQualityApi.Db.csproj": {
+                "projectPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Db\\AirQualityApi.Db.csproj"
+              },
+              "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Models\\AirQualityApi.Models.csproj": {
+                "projectPath": "C:\\Users\\FBUSZKIEWICZ\\Documents\\GitHub\\filip_b\\AirQualityApi\\AirQualityApi.Models\\AirQualityApi.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

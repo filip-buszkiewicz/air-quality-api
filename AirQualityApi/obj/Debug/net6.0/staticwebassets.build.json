@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u4GmQWV1zrhnnvqSXGdBAhAcVhOV4hUhzRUM5rOGLBU=",
+  "Source": "AirQualityApi",
+  "BasePath": "_content/AirQualityApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
